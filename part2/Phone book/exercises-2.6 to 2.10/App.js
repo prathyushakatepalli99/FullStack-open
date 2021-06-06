@@ -195,7 +195,5 @@ const App = (props) => {
 }
 
 export default App
-ReactDOM.render(
-  <App Phonebook = {Phonebook} />, 
-  document.getElementById('root'));
+
 
